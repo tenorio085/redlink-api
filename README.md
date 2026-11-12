@@ -9,11 +9,13 @@ limite anual e idade de 16 a 69 anos).
 
 ## Integrantes
 
-| Nome | RM |
-|------|----|
-| Felipe Tenorio | RM568828 |
-| Thiago Tan | RM570760 |
-| Arthur Netto | _RM a preencher_ |
+| Nome | RM | Turma |
+|------|----|-------|
+| Thiago Motitsuki Tan | RM570760 | 1TDSPI |
+| Felipe Tenorio Diniz | RM568828 | 1TDSPI |
+| João Pedro Rodrigues Siqueira | RM571316 | 1TDSPI |
+| Arthur Netto Barbosa | RM569982 | 1TDSPI |
+| Gustavo Tenorio de Souza | RM569032 | 1TDSPK |
 
 ## Links
 
