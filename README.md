@@ -78,6 +78,7 @@ mesmo `sql/redlink.sql`. Não precisam do Oracle da FIAP.
 
 | Método | Rota | Sucesso | Erros |
 |--------|------|---------|-------|
+| GET | `/` | 200 (API no ar e lista de rotas) | — |
 | POST | `/doadores` | 201 + Location | 400 · 409 |
 | GET | `/doadores` | 200 | — |
 | GET | `/doadores/{id}` | 200 | 404 |
