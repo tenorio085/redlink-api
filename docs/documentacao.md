@@ -18,7 +18,7 @@
 | Arthur Netto Barbosa | RM569982 | 1TDSPI |
 | Gustavo Tenorio de Souza | RM569032 | 1TDSPK |
 
-- **API publicada (Render):** _PREENCHER_
+- **API publicada (Render):** https://redlink-api-4n0s.onrender.com
 - **Vídeo (YouTube, não listado):** _PREENCHER_
 
 ---
