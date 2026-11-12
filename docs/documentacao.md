@@ -12,11 +12,9 @@
 
 | Integrante | RM |
 |------------|----|
-| _PREENCHER_ | _PREENCHER_ |
-| _PREENCHER_ | _PREENCHER_ |
-| _PREENCHER_ | _PREENCHER_ |
-| _PREENCHER_ | _PREENCHER_ |
-| _PREENCHER_ | _PREENCHER_ |
+| Felipe Tenorio | RM568828 |
+| Thiago Tan | RM570760 |
+| Arthur Netto | _RM a preencher_ |
 
 - **API publicada (Render):** _PREENCHER_
 - **Vídeo (YouTube, não listado):** _PREENCHER_
