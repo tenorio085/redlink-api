@@ -10,11 +10,13 @@
 
 ## 1. Capa e links
 
-| Integrante | RM |
-|------------|----|
-| Felipe Tenorio | RM568828 |
-| Thiago Tan | RM570760 |
-| Arthur Netto | _RM a preencher_ |
+| Integrante | RM | Turma |
+|------------|----|-------|
+| Thiago Motitsuki Tan | RM570760 | 1TDSPI |
+| Felipe Tenorio Diniz | RM568828 | 1TDSPI |
+| João Pedro Rodrigues Siqueira | RM571316 | 1TDSPI |
+| Arthur Netto Barbosa | RM569982 | 1TDSPI |
+| Gustavo Tenorio de Souza | RM569032 | 1TDSPK |
 
 - **API publicada (Render):** _PREENCHER_
 - **Vídeo (YouTube, não listado):** _PREENCHER_
