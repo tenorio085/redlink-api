@@ -62,6 +62,14 @@ class RedlinkApiApplicationTests {
         return "{\"dataDoacao\":\"" + data + ":00\",\"hemocentroId\":1}";
     }
 
+    @Test
+    void rotaInicialMostraQueAApiEstaNoAr() throws Exception {
+        mvc.perform(get("/"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.status").value("online"))
+                .andExpect(jsonPath("$.rotas", hasSize(greaterThanOrEqualTo(3))));
+    }
+
     // ------------------------------------------------------------------
     // Doadores
     // ------------------------------------------------------------------
