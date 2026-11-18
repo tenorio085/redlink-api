@@ -17,6 +17,7 @@
 | Arthur Netto Barbosa | RM569982 | 1TDSPI |
 | Gustavo Tenorio de Souza | RM569032 | 1TDSPK |
 
+- **Repositório (GitHub):** https://github.com/tenorio085/redlink-api
 - **API publicada (Render):** https://redlink-api-4n0s.onrender.com
 - **Vídeo (YouTube, não listado):** https://youtu.be/HgevasVLHIQ
 
