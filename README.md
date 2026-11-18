@@ -152,4 +152,4 @@ src/main/java/br/com/fiap/redlink
 └── config      CORS e ModelMapper
 ```
 
-A documentação técnica completa está em [`docs/documentacao.md`](docs/documentacao.md).
+A documentação técnica completa está em PDF em [`docs/Documentacao_Tecnica_RedLink_API.pdf`](docs/Documentacao_Tecnica_RedLink_API.pdf) (gerado a partir de [`docs/documentacao.md`](docs/documentacao.md)).
