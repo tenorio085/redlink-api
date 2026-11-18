@@ -2,9 +2,8 @@
 
 **Global Solution 2026/2 · CitizenTech · Domain Driven Design Using Java**
 
-> Este arquivo é a base do PDF de documentação. Preencham os campos marcados com _PREENCHER_
-> e exportem para PDF (os diagramas em Mermaid aparecem no GitHub e no VS Code; se preferirem,
-> redesenhem no draw.io/Astah).
+> Este arquivo é a base do PDF de documentação (os diagramas em Mermaid aparecem no GitHub e no
+> VS Code; se preferirem, redesenhem no draw.io/Astah).
 
 ---
 
@@ -19,7 +18,7 @@
 | Gustavo Tenorio de Souza | RM569032 | 1TDSPK |
 
 - **API publicada (Render):** https://redlink-api-4n0s.onrender.com
-- **Vídeo (YouTube, não listado):** _PREENCHER_
+- **Vídeo (YouTube, não listado):** https://youtu.be/HgevasVLHIQ
 
 ---
 

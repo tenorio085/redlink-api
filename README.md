@@ -20,7 +20,7 @@ limite anual e idade de 16 a 69 anos).
 ## Links
 
 - **API no Render:** https://redlink-api-4n0s.onrender.com (teste rápido: [/hemocentros](https://redlink-api-4n0s.onrender.com/hemocentros))
-- **Vídeo (YouTube, não listado):** _PREENCHER_
+- **Vídeo (YouTube, não listado):** https://youtu.be/HgevasVLHIQ
 
 ## Tecnologias
 
